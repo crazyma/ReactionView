@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_reaction">160dp</dimen>
+    <dimen name="height_reaction">200dp</dimen>
+    <dimen name="reaction_board_padding_bottom">64dp</dimen>
+    <dimen name="width_reaction_title">48dp</dimen>
+    <dimen name="height_reaction_title">24dp</dimen>
+    <dimen name="reaction_title_size">12sp</dimen>
+</resources>
